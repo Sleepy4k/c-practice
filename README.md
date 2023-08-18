@@ -16,7 +16,7 @@ Go to the project directory
   cd c-practice
 ~~~
 
-Start the cpp file  
+Start the c file  
 
 ~~~bash  
   gcc <filename> -o <output name>
