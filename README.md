@@ -25,7 +25,7 @@ Start the cpp file
 ## Usage/Examples
 
 ~~~bash
-  gc hello.c -o hai
+  gcc hello.c -o hai
 ~~~  
 
 ~~~bash
