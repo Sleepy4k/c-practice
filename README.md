@@ -19,13 +19,13 @@ Go to the project directory
 Start the c file  
 
 ~~~bash  
-  gcc <filename> -o <output name>
+  gcc -std=c99 <filename> -o <output name>
 ~~~
 
 ## Usage/Examples
 
 ~~~bash
-  gcc hello.c -o hai
+  gcc -std=c99 hello.c -o hai
 ~~~  
 
 ~~~bash
