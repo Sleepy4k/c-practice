@@ -4,19 +4,19 @@ Learn basic syntax for c
 
 ## Run Locally  
 
-Clone the project  
+Clone the project
 
 ~~~bash  
   git clone https://github.com/Sleepy4k/c-practice.git
 ~~~
 
-Go to the project directory  
+Go to the project directory
 
 ~~~bash  
   cd c-practice
 ~~~
 
-Start the c file  
+Start the c file
 
 ~~~bash  
   gcc -std=c99 <filename> -o <output name>
